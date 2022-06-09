@@ -1,4 +1,2 @@
 # Welcome to Haoran's Org
-
-
-![pic](assets/pic.jpg)
+![profile](asset/profile.PNG)
